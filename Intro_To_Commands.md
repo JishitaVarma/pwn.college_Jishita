@@ -9,6 +9,7 @@ In this level, invoke the hello command to get the flag! Keep in mind: commands 
 
 ```bash
 hello
+pwn.college{Ia3J9zr9989QbNKQEu4b4dlDBEH.QX3YjM1wiMyEzNzEzW}
 ```
 
 ### New Learnings
