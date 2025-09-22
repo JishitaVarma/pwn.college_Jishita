@@ -2,17 +2,13 @@
 Hello Hackers
 
 ## Challenge Name
-Add challenge description here
+In this level, invoke the hello command to get the flag! Keep in mind: commands in Linux are case sensitive: hello is different from HELLO.
 
 ### Solve
 **Flag:** `pwn.college{helloworld}`
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for any bash commands and output you type on the terminal.
-
 ```bash
-command 1
-command 2
-pwn.college{helloworld}
+hello
 ```
 
 ### New Learnings
